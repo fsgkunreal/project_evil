@@ -1,0 +1,131 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2" pages="2">
+  <diagram name="Главная" id="T7ImPXMxOnifb24vFtsA">
+    <mxGraphModel dx="1428" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Геймплей&lt;/b&gt;&lt;/font&gt;" link="data:page/id,OSovs7PLhf8-tyjL8a8L" id="GJ9Xazq2mYD8PECotZxl-1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="80" y="400" width="200" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GJ9Xazq2mYD8PECotZxl-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Squeak&lt;/h1&gt;&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Игра с видом сверху, где вы управляете некой бестелесной сущностью, цель которой защитить своего подопечного человека от зла, стремящегося навредить ему.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;Из-за вашей формы вы не можете напрямую заставлять человека делать что вам нужно. Остаётся лишь взаимодействовать с окружением, чтобы увести его от неприятностей. Но будьте осторожны, чрезмерное использование своих сил может привести к панике подопечного и его некотролируемому перемещению.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="770" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OSovs7PLhf8-tyjL8a8L" name="Геймплей">
+    <mxGraphModel dx="2255" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Микро-луп&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-3" target="gnbgyJkMhnsvMxeIZPOV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-3" value="Игрок замечает опасность" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-4" target="gnbgyJkMhnsvMxeIZPOV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-4" value="Игрок избегает опасности" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-7" target="gnbgyJkMhnsvMxeIZPOV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-7" value="Противник в ступоре, даёт передышку" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-11" target="gnbgyJkMhnsvMxeIZPOV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-11" value="Зло и Человек идут в одну комнату" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-13" target="gnbgyJkMhnsvMxeIZPOV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-13" value="Игрок блокирует дверь человеку, тот останавливается" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-15" target="gnbgyJkMhnsvMxeIZPOV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-15" value="Зло в комнате назначения стоит в ступоре, думает над дальнейшими действиями" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Пример&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;Макро-луп&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="314" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-19" target="gnbgyJkMhnsvMxeIZPOV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-19" value="Игрок оценивает опасность" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-21" target="gnbgyJkMhnsvMxeIZPOV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-21" value="Игрок преодолевает опасность" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="494" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-23" target="gnbgyJkMhnsvMxeIZPOV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-23" value="Игрок получает награду" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="214" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-25" target="gnbgyJkMhnsvMxeIZPOV-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-25" value="Игрок определяет тип врага как &quot;Демон&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="354" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-27" target="gnbgyJkMhnsvMxeIZPOV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-27" value="Игрок ставит специальные ловушки только для данного типа врагов" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="494" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="gnbgyJkMhnsvMxeIZPOV-29" target="gnbgyJkMhnsvMxeIZPOV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-29" value="Зло не может поймать Человека. Ночь пройдена." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="214" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Пример&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-31" value="Основной источник удовольствия" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="120" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-32" value="Игроку должно быть интересно взаимодействовать с окружением" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="gnbgyJkMhnsvMxeIZPOV-31">
+          <mxGeometry y="30" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-33" value="Стоит избегать излишнего обучения: не добавлять подсветку или другие подсказки по объектам для взаимодействия. Таким образом откроется элемент исследования и чувство погруежения." style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="gnbgyJkMhnsvMxeIZPOV-31">
+          <mxGeometry y="90" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-35" value="Локальная прогрессия" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="120" width="220" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-36" value="У игрока должно быть чуство роста по мере прохождения уровня." style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="gnbgyJkMhnsvMxeIZPOV-35">
+          <mxGeometry y="30" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-37" value="Разделить одну сессию на несколько этапов - условных волн, где волна - одна ночь. С каждой волной противник будет становиться всё сильней, у него будут открываться новые способности." style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="gnbgyJkMhnsvMxeIZPOV-35">
+          <mxGeometry y="90" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gnbgyJkMhnsvMxeIZPOV-38" value="По мере прогрессии у игрока открываются новые способности (?) (Спорный момент, нужно искать баланс между вызовом и размообразием)" style="text;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="gnbgyJkMhnsvMxeIZPOV-35">
+          <mxGeometry y="200" width="220" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
