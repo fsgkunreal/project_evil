@@ -1,0 +1,418 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Страница — 1" id="EYzoXMvRA74O-wRoseN2">
+    <mxGraphModel dx="3014" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-1" target="UKVNhMI2pPpiY_2kY-7O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-1" target="UKVNhMI2pPpiY_2kY-7O-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-1" value="RV_DressRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-2" target="UKVNhMI2pPpiY_2kY-7O-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-2" target="UKVNhMI2pPpiY_2kY-7O-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-2" target="UKVNhMI2pPpiY_2kY-7O-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-2" value="RV_Hall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-3" target="UKVNhMI2pPpiY_2kY-7O-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-3" value="RV_Bedroom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-6" value="ЦЕЛЬ:&lt;br&gt;RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-7" target="UKVNhMI2pPpiY_2kY-7O-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-7" value="RV_Bedroom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-9" target="UKVNhMI2pPpiY_2kY-7O-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-9" target="UKVNhMI2pPpiY_2kY-7O-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-9" value="RV_Kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-10" target="UKVNhMI2pPpiY_2kY-7O-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-10" target="UKVNhMI2pPpiY_2kY-7O-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-10" target="UKVNhMI2pPpiY_2kY-7O-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-10" target="UKVNhMI2pPpiY_2kY-7O-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-10" value="RV_Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-14" target="UKVNhMI2pPpiY_2kY-7O-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-14" value="RV_BathRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-16" target="UKVNhMI2pPpiY_2kY-7O-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-16" value="RV_HallRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-18" target="UKVNhMI2pPpiY_2kY-7O-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-18" value="RV_Kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-20" target="UKVNhMI2pPpiY_2kY-7O-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-20" value="RV_HallRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-22" target="UKVNhMI2pPpiY_2kY-7O-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-22" target="UKVNhMI2pPpiY_2kY-7O-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-22" target="UKVNhMI2pPpiY_2kY-7O-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-22" value="RV_Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-24" target="UKVNhMI2pPpiY_2kY-7O-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-24" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-25" target="UKVNhMI2pPpiY_2kY-7O-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-25" target="UKVNhMI2pPpiY_2kY-7O-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-25" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1121" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-26" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-30" target="UKVNhMI2pPpiY_2kY-7O-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-30" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-31" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-34" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-36" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-38" target="UKVNhMI2pPpiY_2kY-7O-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-38" value="RV_HallRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-40" target="UKVNhMI2pPpiY_2kY-7O-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-40" value="RV_HallRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-42" target="UKVNhMI2pPpiY_2kY-7O-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-42" value="RV_BathRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-44" target="UKVNhMI2pPpiY_2kY-7O-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-44" value="RV_Bedroom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-46" value="RV_DressRoom_01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-51" target="UKVNhMI2pPpiY_2kY-7O-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-51" target="UKVNhMI2pPpiY_2kY-7O-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-51" target="UKVNhMI2pPpiY_2kY-7O-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-51" value="RV_Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-53" target="UKVNhMI2pPpiY_2kY-7O-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-53" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-56" target="UKVNhMI2pPpiY_2kY-7O-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-56" target="UKVNhMI2pPpiY_2kY-7O-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-56" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-57" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-59" target="UKVNhMI2pPpiY_2kY-7O-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-59" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-60" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-61" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-62" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-64" target="UKVNhMI2pPpiY_2kY-7O-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-64" value="RV_HallRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-65" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-66" target="UKVNhMI2pPpiY_2kY-7O-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-66" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-67" target="UKVNhMI2pPpiY_2kY-7O-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-67" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-72" target="UKVNhMI2pPpiY_2kY-7O-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-72" value="RV_Kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-74" target="UKVNhMI2pPpiY_2kY-7O-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-74" value="RV_HallRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-76" target="UKVNhMI2pPpiY_2kY-7O-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-76" value="RV_BathRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-78" value="RV_Bedroom_01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-84" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-86" target="UKVNhMI2pPpiY_2kY-7O-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-86" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-88" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-92" target="UKVNhMI2pPpiY_2kY-7O-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-92" target="UKVNhMI2pPpiY_2kY-7O-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-92" value="RV_Hall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2641" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-95" target="UKVNhMI2pPpiY_2kY-7O-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-95" target="UKVNhMI2pPpiY_2kY-7O-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-95" value="RV_Kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2641" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-100" target="UKVNhMI2pPpiY_2kY-7O-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-100" target="UKVNhMI2pPpiY_2kY-7O-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-100" target="UKVNhMI2pPpiY_2kY-7O-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-100" target="UKVNhMI2pPpiY_2kY-7O-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-100" value="RV_Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4041" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-102" target="UKVNhMI2pPpiY_2kY-7O-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-102" value="RV_HallRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-104" target="UKVNhMI2pPpiY_2kY-7O-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-104" value="RV_HallRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3031" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-106" target="UKVNhMI2pPpiY_2kY-7O-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-106" value="RV_BathRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-108" value="RV_Bedroom_01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2481" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-113" target="UKVNhMI2pPpiY_2kY-7O-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-113" target="UKVNhMI2pPpiY_2kY-7O-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-113" target="UKVNhMI2pPpiY_2kY-7O-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-113" value="RV_Office" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-115" target="UKVNhMI2pPpiY_2kY-7O-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-115" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2751" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-118" target="UKVNhMI2pPpiY_2kY-7O-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-118" target="UKVNhMI2pPpiY_2kY-7O-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-118" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3030" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-119" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3311" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-121" target="UKVNhMI2pPpiY_2kY-7O-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-121" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2751" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-122" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2751" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-123" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2951" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-124" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3121" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-126" target="UKVNhMI2pPpiY_2kY-7O-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-126" value="RV_HallRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3771" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-127" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3951" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-129" target="UKVNhMI2pPpiY_2kY-7O-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-129" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4131" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-131" target="UKVNhMI2pPpiY_2kY-7O-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-131" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4311" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-133" target="UKVNhMI2pPpiY_2kY-7O-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-133" value="RV_Kitchen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3771" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-135" target="UKVNhMI2pPpiY_2kY-7O-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-135" value="RV_HallRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3771" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-137" target="UKVNhMI2pPpiY_2kY-7O-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-137" value="RV_BathRoom_01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3771" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-138" value="RV_Bedroom_01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3771" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-139" value="RV_DressRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4131" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UKVNhMI2pPpiY_2kY-7O-141" target="UKVNhMI2pPpiY_2kY-7O-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-141" value="RV_BedRoom_Master" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4311" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UKVNhMI2pPpiY_2kY-7O-142" value="RV_BathRoom_02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="4311" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
